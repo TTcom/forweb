@@ -23,7 +23,8 @@ module.exports = {
           title: 'javascript',
           collapsable: false,
         },
-        ['', 'javascript'],
+        ['', '算法题一'],
+        ['numtype', '基础数据类型'],
       ],
       '/css/': [
         {
